@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Copyright 2011 Bluetooth SIG, Inc. All rights reserved. --><Service xsi:noNamespaceSchemaLocation="http://schemas.bluetooth.org/Documents/service.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="org.bluetooth.service.health_thermometer" uuid="1809" name="Health Thermometer"><InformativeText><Abstract>
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright 2011 Bluetooth SIG, Inc. All rights reserved. --><Service xsi:noNamespaceSchemaLocation="http://schemas.bluetooth.org/Documents/service.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="org.bluetooth.service.health_thermometer" uuid="1809" name="Health Thermometer"><InformativeText><Abstract> 
             The Health Thermometer service exposes temperature and other data from a thermometer intended for healthcare and fitness applications.
 		</Abstract><Summary>
             The Health Thermometer service is instantiated as a Primary Service.
